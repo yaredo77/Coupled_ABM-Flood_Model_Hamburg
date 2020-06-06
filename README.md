@@ -89,6 +89,7 @@ The flood threat is a function of the four factors and agents assess their perce
 <p align="center"> <img src="https://user-images.githubusercontent.com/13009562/83941956-baba1100-a7ef-11ea-965f-f6c291da2184.png"> </p>
 Figure 3. Decision tree for the threat appraisal
 
+
 *Coping appraisal* 
 
 Coping behaviour is initiated depending on agents’ belief in their ability to implement a measure, agents’ expectation that the measure removes the threat or improves the situation, and the perceived costs of implementation. In our model, coping appraisal is influenced by agents direct flood experience, i.e., if they had personal flood experience (*PFE*), house ownership (*HO*), household income (*HI*), state/government subsidy (*SS*) and the number of measures within agent’s social network (*SN*).
@@ -102,6 +103,7 @@ Coping behaviour is initiated depending on agents’ belief in their ability to 
 - *SN* has a value of Low or High. As shown in Eq 5, this factor depends on the number of agents that implement a specific type of adaptation measure for a given house category. If the number is greater than a threshold, agents who occupy that same house category will have High *SN* value. Otherwise, *SN* is Low. 
 
 <img src="https://user-images.githubusercontent.com/13009562/83942226-ff46ac00-a7f1-11ea-8b59-0075e8840e02.png">
+
 where, *NA_measureType* is the number of agents that implement a specific measure type depending on the category of house they occupy.
  
 Coping is a function of the five factors, and agents appraise their coping using a rule-based decision tree illustrated in Figure 4. For households that implement a structural measure, the full decision tree is evaluated while for those that implement non-structural measures (i.e., temporary measures), shapes and lines in dashed line are not assessed. If household agents have direct flood experience, the conditions that they would not intend to cope and implement a structural measure are if they occupy a rented house and (i) they have high income but have low *SN*, or (ii) they have low income and received no subsidy, or (iii) they have low income and received a subsidy, but have low *SN*. If agents live in their own house, the only condition that they would not intend to cope is if they have low income, received no subsidy and have low *SN*. In all the other cases, agents coping appraisal results in intention to cope. If agents do not have direct flood experience, the only case that they develop a coping behaviour is when the agents own the house they occupy and (i) they have high income and have high *SN*, or (ii) they have low income, have received a subsidy and have high *SN*. In the rest of the cases, household agents do not develop coping behaviour. 
@@ -112,6 +114,7 @@ An important aspect regarding the *SN* factor is that as its value changes for a
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/13009562/83942101-028d6800-a7f1-11ea-96db-36c8229a06af.png"> </p>
 Figure 4. Decision tree for the coping appraisal. The shapes and lines in dashed line are related to the income and subsidy factors, and they are executed only when households implement structural measures.
+
 
 *Household adaptation measure implementation*
 
