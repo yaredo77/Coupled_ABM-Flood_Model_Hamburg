@@ -1,0 +1,141 @@
+<repast.simphony.data2.engine.DataSetDescriptor simphonyVersion="2.7.0">
+  <name>Output data Aggregate</name>
+  <type>AGGREGATE</type>
+  <inclTick>true</inclTick>
+  <inclBatchRun>true</inclBatchRun>
+  <inclRandomSeed>false</inclRandomSeed>
+  <scheduleParams>
+    <start>0.0</start>
+    <interval>1.0</interval>
+    <priority>-Infinity</priority>
+    <pType>LAST</pType>
+    <duration>-1.0</duration>
+    <frequency>REPEAT</frequency>
+    <hashCode>1578315243</hashCode>
+  </scheduleParams>
+  <atEnd>false</atEnd>
+  <methodDataSources class="linked-hash-map"/>
+  <countSources class="linked-hash-map"/>
+  <customNADataSources class="linked-hash-map"/>
+  <customAggDataSources class="linked-hash-map">
+    <entry>
+      <string>Coping Yes (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Coping Yes (cum)</id>
+        <dsClassName>aggregateDataCollection.CopingAppraisalYes</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Flooded houses (per tick)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Flooded houses (per tick)</id>
+        <dsClassName>aggregateDataCollection.DataFloodedHouses</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Primary measure abandoned Yes (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Primary measure abandoned Yes (cum)</id>
+        <dsClassName>aggregateDataCollection.PrimaryMeasureAbandonedYes</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Secondary measure abandoned Yes (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Secondary measure abandoned Yes (cum)</id>
+        <dsClassName>aggregateDataCollection.SecondaryMeasureAbandonedYes</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Secondary measure implemented Yes (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Secondary measure implemented Yes (cum)</id>
+        <dsClassName>aggregateDataCollection.SecondaryMeasureImplementedYes</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Primary measure implemented Yes (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Primary measure implemented Yes (cum)</id>
+        <dsClassName>aggregateDataCollection.PrimaryMeasureImplementedYes</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Coping due to SN (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Coping due to SN (cum)</id>
+        <dsClassName>aggregateDataCollection.SocialNetworkYes</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Threat Yes (per tick)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Threat Yes (per tick)</id>
+        <dsClassName>aggregateDataCollection.ThreatAppraisalYes</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Building damage (per tick)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Building damage (per tick)</id>
+        <dsClassName>aggregateDataCollection.TotalBuildingDamage</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Building damage saved (per tick)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Building damage saved (per tick)</id>
+        <dsClassName>aggregateDataCollection.TotalBuildingDamageReduced</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Content damage saved (per tick)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Content damage saved (per tick)</id>
+        <dsClassName>aggregateDataCollection.TotalContentDamageReduced</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>Content damage (per tick)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>Content damage (per tick)</id>
+        <dsClassName>aggregateDataCollection.TotalContentDamage</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>IUHS (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>IUHS (cum)</id>
+        <dsClassName>aggregateDataCollection.Measure1Implemented</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>FAIF_B (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>FAIF_B (cum)</id>
+        <dsClassName>aggregateDataCollection.Measure2BImplemented</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>FAIF_I (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>FAIF_I (cum)</id>
+        <dsClassName>aggregateDataCollection.Measure2IImplemented</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>FB1 (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>FB1 (cum)</id>
+        <dsClassName>aggregateDataCollection.Measure3Implemented</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>FB2 (cum)</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>FB2 (cum)</id>
+        <dsClassName>aggregateDataCollection.Measure4Implemented</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+  </customAggDataSources>
+</repast.simphony.data2.engine.DataSetDescriptor>

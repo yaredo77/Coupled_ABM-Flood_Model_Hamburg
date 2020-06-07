@@ -1,0 +1,685 @@
+INFO  [pool-2-thread-4] 2020-03-09 09:43:31,645 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-3] 2020-03-09 09:45:32,572 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.77 for DONE: yes
+INFO  [pool-2-thread-1] 2020-03-09 09:45:32,573 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.48 for DONE: no
+INFO  [pool-2-thread-2] 2020-03-09 09:45:32,583 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.62 for DONE: no
+INFO  [pool-2-thread-16] 2020-03-09 09:45:32,583 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.141 for DONE: yes
+INFO  [pool-2-thread-14] 2020-03-09 09:45:32,590 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.136 for DONE: yes
+INFO  [pool-2-thread-15] 2020-03-09 09:45:32,598 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.138 for DONE: yes
+INFO  [pool-2-thread-13] 2020-03-09 09:45:32,599 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.135 for DONE: yes
+INFO  [pool-2-thread-18] 2020-03-09 09:45:32,601 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.149 for DONE: yes
+INFO  [pool-2-thread-11] 2020-03-09 09:45:32,603 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.131 for DONE: yes
+INFO  [pool-2-thread-12] 2020-03-09 09:45:32,606 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.132 for DONE: yes
+INFO  [pool-2-thread-17] 2020-03-09 09:45:32,606 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.142 for DONE: no
+INFO  [pool-2-thread-20] 2020-03-09 09:45:32,621 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.161 for DONE: yes
+INFO  [pool-2-thread-19] 2020-03-09 09:45:32,621 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.158 for DONE: no
+INFO  [pool-2-thread-4] 2020-03-09 09:45:32,646 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-1] 2020-03-09 09:47:33,575 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.48 for DONE: yes
+INFO  [pool-2-thread-2] 2020-03-09 09:47:33,585 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.62 for DONE: yes
+INFO  [pool-2-thread-17] 2020-03-09 09:47:33,609 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.142 for DONE: yes
+INFO  [pool-2-thread-19] 2020-03-09 09:47:33,623 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.158 for DONE: yes
+INFO  [pool-2-thread-4] 2020-03-09 09:47:33,648 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-4] 2020-03-09 09:49:34,651 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583742418082 on 145.100.57.99 for DONE: yes
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:34,654 repast.simphony.batch.ssh.SessionsDriver - Run Time: 17.9540
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:44,995 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.48:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.48
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:45,331 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.62:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.62
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:45,649 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.77:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.77
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:45,931 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.99:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.99
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:46,365 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.100:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.100
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:46,680 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.101:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.101
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:46,988 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.106:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.106
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:47,297 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.127:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.127
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:47,592 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.129:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.129
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:47,906 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.130:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.130
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:48,234 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.131:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.131
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:48,521 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.132:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.132
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:48,807 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.135:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.135
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:49,094 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.136:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.136
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:49,378 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.138:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.138
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:49,666 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.141:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.141
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:49,964 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.142:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.142
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:50,250 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.149:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.149
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:50,534 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.158:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.158
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:50,871 repast.simphony.batch.ssh.RemoteSession - Finding and copying remote output from ubuntu@145.100.57.161:simphony_model_1583742418082 to /tmp/ubuntu_145.100.57.161
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:51,211 repast.simphony.batch.ssh.SessionsDriver - Aggregating output into /data/Wilhelmsburg_ABM/Wilhelmsburg/output
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:51,227 repast.simphony.batch.ssh.SessionsDriver - Get Output Time: 0.2762
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 09:49:51,227 repast.simphony.batch.ssh.SessionsDriver - Finished. Elapsed Time: 22.8860
+INFO  [AWT-EventQueue-0] 2020-03-09 10:59:07,901 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /data/Wilhelmsburg_ABM/Wilhelmsburg/output/config.props
+INFO  [AWT-EventQueue-0] 2020-03-09 10:59:07,948 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/data/Wilhelmsburg_ABM/Wilhelmsburg/batch/batch_params.xml to
+	/tmp/unrolledParamFile.txt
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 10:59:31,371 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.484305280966335574056.zip to 
+	ubuntu@145.100.57.48:~/simphony_model_1583747960149/ubuntu_145.100.57.484305280966335574056.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 10:59:50,427 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:01,438 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.623259515474162071516.zip to 
+	ubuntu@145.100.57.62:~/simphony_model_1583747960149/ubuntu_145.100.57.623259515474162071516.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:03,750 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:14,786 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.774056650560520387498.zip to 
+	ubuntu@145.100.57.77:~/simphony_model_1583747960149/ubuntu_145.100.57.774056650560520387498.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:16,813 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:27,919 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.9911962709611648869003.zip to 
+	ubuntu@145.100.57.99:~/simphony_model_1583747960149/ubuntu_145.100.57.9911962709611648869003.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:30,098 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:41,148 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1001163077156587239439.zip to 
+	ubuntu@145.100.57.100:~/simphony_model_1583747960149/ubuntu_145.100.57.1001163077156587239439.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:43,276 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:54,350 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1012673555482985598082.zip to 
+	ubuntu@145.100.57.101:~/simphony_model_1583747960149/ubuntu_145.100.57.1012673555482985598082.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:00:56,399 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:01:07,454 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.10613518753267272574631.zip to 
+	ubuntu@145.100.57.106:~/simphony_model_1583747960149/ubuntu_145.100.57.10613518753267272574631.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:01:09,568 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:01:20,680 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.12716333629474722647806.zip to 
+	ubuntu@145.100.57.127:~/simphony_model_1583747960149/ubuntu_145.100.57.12716333629474722647806.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:01:22,775 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:01:33,801 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.12917814804167482684632.zip to 
+	ubuntu@145.100.57.129:~/simphony_model_1583747960149/ubuntu_145.100.57.12917814804167482684632.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:01:35,857 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:01:47,028 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.13011810734000417366681.zip to 
+	ubuntu@145.100.57.130:~/simphony_model_1583747960149/ubuntu_145.100.57.13011810734000417366681.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:01:49,103 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:00,124 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.13114732772285694901452.zip to 
+	ubuntu@145.100.57.131:~/simphony_model_1583747960149/ubuntu_145.100.57.13114732772285694901452.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:02,199 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:13,222 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1322354901426184065325.zip to 
+	ubuntu@145.100.57.132:~/simphony_model_1583747960149/ubuntu_145.100.57.1322354901426184065325.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:15,267 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:26,355 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.13510454320006391651740.zip to 
+	ubuntu@145.100.57.135:~/simphony_model_1583747960149/ubuntu_145.100.57.13510454320006391651740.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:28,482 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:39,505 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.13618225960441160457012.zip to 
+	ubuntu@145.100.57.136:~/simphony_model_1583747960149/ubuntu_145.100.57.13618225960441160457012.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:41,608 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:52,793 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.13811943849710512583250.zip to 
+	ubuntu@145.100.57.138:~/simphony_model_1583747960149/ubuntu_145.100.57.13811943849710512583250.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:02:54,974 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:06,096 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1412131693429593619888.zip to 
+	ubuntu@145.100.57.141:~/simphony_model_1583747960149/ubuntu_145.100.57.1412131693429593619888.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:08,169 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:19,250 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.14213304772416243140973.zip to 
+	ubuntu@145.100.57.142:~/simphony_model_1583747960149/ubuntu_145.100.57.14213304772416243140973.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:21,357 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:32,364 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.14915903344588995554374.zip to 
+	ubuntu@145.100.57.149:~/simphony_model_1583747960149/ubuntu_145.100.57.14915903344588995554374.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:34,412 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:45,504 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.15817425594627000045500.zip to 
+	ubuntu@145.100.57.158:~/simphony_model_1583747960149/ubuntu_145.100.57.15817425594627000045500.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:47,617 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:03:58,789 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1611242740757867011586.zip to 
+	ubuntu@145.100.57.161:~/simphony_model_1583747960149/ubuntu_145.100.57.1611242740757867011586.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:01,010 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:01,014 repast.simphony.batch.ssh.SessionsDriver - Initialization Time: 4.6810
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:01,060 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.48
+INFO  [Connect thread 145.100.57.48 session] 2020-03-09 11:04:01,377 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.48 session] 2020-03-09 11:04:01,377 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.48 session] 2020-03-09 11:04:01,377 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:02,277 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.48
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:06,280 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.48 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:07,325 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.62
+INFO  [Connect thread 145.100.57.62 session] 2020-03-09 11:04:07,691 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.62 session] 2020-03-09 11:04:07,691 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.62 session] 2020-03-09 11:04:07,691 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:08,589 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.62
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:12,591 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.62 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:13,626 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.77
+INFO  [Connect thread 145.100.57.77 session] 2020-03-09 11:04:13,886 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.77 session] 2020-03-09 11:04:13,886 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.77 session] 2020-03-09 11:04:13,886 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:14,817 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.77
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:17,818 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.77 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:18,870 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.99
+INFO  [Connect thread 145.100.57.99 session] 2020-03-09 11:04:19,294 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.99 session] 2020-03-09 11:04:19,294 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.99 session] 2020-03-09 11:04:19,294 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:20,194 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.99
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:24,196 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.99 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:25,235 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.100
+INFO  [Connect thread 145.100.57.100 session] 2020-03-09 11:04:25,520 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.100 session] 2020-03-09 11:04:25,520 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.100 session] 2020-03-09 11:04:25,520 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:26,441 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.100
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:29,443 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.100 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:30,487 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.101
+INFO  [Connect thread 145.100.57.101 session] 2020-03-09 11:04:30,837 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.101 session] 2020-03-09 11:04:30,837 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.101 session] 2020-03-09 11:04:30,837 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:31,721 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.101
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:34,723 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.101 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:35,761 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.106
+INFO  [Connect thread 145.100.57.106 session] 2020-03-09 11:04:36,048 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.106 session] 2020-03-09 11:04:36,049 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.106 session] 2020-03-09 11:04:36,049 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:36,965 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.106
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:39,967 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.106 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:41,005 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.127
+INFO  [Connect thread 145.100.57.127 session] 2020-03-09 11:04:41,293 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.127 session] 2020-03-09 11:04:41,293 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.127 session] 2020-03-09 11:04:41,293 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:42,209 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.127
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:45,211 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.127 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:46,249 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.129
+INFO  [Connect thread 145.100.57.129 session] 2020-03-09 11:04:46,545 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.129 session] 2020-03-09 11:04:46,545 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.129 session] 2020-03-09 11:04:46,545 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:47,461 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.129
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:50,463 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.129 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:51,504 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.130
+INFO  [Connect thread 145.100.57.130 session] 2020-03-09 11:04:51,810 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.130 session] 2020-03-09 11:04:51,811 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.130 session] 2020-03-09 11:04:51,811 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:52,725 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.130
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:55,727 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.130 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:56,761 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.131
+INFO  [Connect thread 145.100.57.131 session] 2020-03-09 11:04:57,053 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.131 session] 2020-03-09 11:04:57,053 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.131 session] 2020-03-09 11:04:57,054 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:04:57,965 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.131
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:00,967 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.131 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:02,001 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.132
+INFO  [Connect thread 145.100.57.132 session] 2020-03-09 11:05:02,267 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.132 session] 2020-03-09 11:05:02,267 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.132 session] 2020-03-09 11:05:02,267 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:03,189 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.132
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:06,191 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.132 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:07,229 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.135
+INFO  [Connect thread 145.100.57.135 session] 2020-03-09 11:05:07,506 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.135 session] 2020-03-09 11:05:07,508 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.135 session] 2020-03-09 11:05:07,510 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:08,425 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.135
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:11,427 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.135 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:12,469 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.136
+INFO  [Connect thread 145.100.57.136 session] 2020-03-09 11:05:12,762 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.136 session] 2020-03-09 11:05:12,762 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.136 session] 2020-03-09 11:05:12,762 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:13,677 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.136
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:16,679 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.136 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:17,714 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.138
+INFO  [Connect thread 145.100.57.138 session] 2020-03-09 11:05:17,989 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.138 session] 2020-03-09 11:05:17,990 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.138 session] 2020-03-09 11:05:17,990 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:18,905 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.138
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:21,907 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.138 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:22,947 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.141
+INFO  [Connect thread 145.100.57.141 session] 2020-03-09 11:05:23,253 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.141 session] 2020-03-09 11:05:23,253 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.141 session] 2020-03-09 11:05:23,253 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:24,165 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.141
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:27,167 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.141 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:28,202 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.142
+INFO  [Connect thread 145.100.57.142 session] 2020-03-09 11:05:28,519 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.142 session] 2020-03-09 11:05:28,519 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.142 session] 2020-03-09 11:05:28,520 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:29,413 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.142
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:33,415 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.142 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:34,453 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.149
+INFO  [Connect thread 145.100.57.149 session] 2020-03-09 11:05:34,765 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.149 session] 2020-03-09 11:05:34,765 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.149 session] 2020-03-09 11:05:34,765 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:35,673 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.149
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:38,675 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.149 ...
+ERROR [SwingWorker-pool-1-thread-1] 2020-03-09 11:05:39,710 repast.simphony.batch.ssh.SessionsDriver - Error while creating connection to ubuntu@145.100.57.158
+com.jcraft.jsch.JSchException: verify: false
+	at com.jcraft.jsch.Session.connect(Session.java:309)
+	at com.jcraft.jsch.Session.connect(Session.java:162)
+	at repast.simphony.batch.ssh.SSHSessionFactory.create(SSHSessionFactory.java:75)
+	at repast.simphony.batch.ssh.RemoteSession.runModel(RemoteSession.java:259)
+	at repast.simphony.batch.ssh.SessionsDriver.run(SessionsDriver.java:67)
+	at repast.simphony.batch.gui.BatchConfigMediator$AntSessionRunner.doInBackground(BatchConfigMediator.java:481)
+	at repast.simphony.batch.gui.BatchConfigMediator$AntSessionRunner.doInBackground(BatchConfigMediator.java:1)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  [AWT-EventQueue-0] 2020-03-09 11:53:03,889 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /data/Wilhelmsburg_ABM/Wilhelmsburg/output/config.props
+INFO  [AWT-EventQueue-0] 2020-03-09 11:53:03,922 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/data/Wilhelmsburg_ABM/Wilhelmsburg/batch/batch_params.xml to
+	/tmp/unrolledParamFile.txt
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:53:27,481 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.482233718519624044544.zip to 
+	ubuntu@145.100.57.48:~/simphony_model_1583751196221/ubuntu_145.100.57.482233718519624044544.zip ...
+ERROR [SwingWorker-pool-1-thread-1] 2020-03-09 11:55:36,751 repast.simphony.batch.ssh.SessionsDriver - Error while creating connection to ubuntu@145.100.57.48
+com.jcraft.jsch.JSchException: Auth fail
+	at com.jcraft.jsch.Session.connect(Session.java:484)
+	at com.jcraft.jsch.Session.connect(Session.java:162)
+	at repast.simphony.batch.ssh.SSHSessionFactory.create(SSHSessionFactory.java:75)
+	at repast.simphony.batch.ssh.RemoteSession.copyFile(RemoteSession.java:141)
+	at repast.simphony.batch.ssh.RemoteSession.initModelArchive(RemoteSession.java:134)
+	at repast.simphony.batch.ssh.SessionsDriver.run(SessionsDriver.java:58)
+	at repast.simphony.batch.gui.BatchConfigMediator$AntSessionRunner.doInBackground(BatchConfigMediator.java:481)
+	at repast.simphony.batch.gui.BatchConfigMediator$AntSessionRunner.doInBackground(BatchConfigMediator.java:1)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  [AWT-EventQueue-0] 2020-03-09 11:56:16,631 repast.simphony.batch.gui.BatchConfigMediator - Writing batch run config file to: /data/Wilhelmsburg_ABM/Wilhelmsburg/output/config.props
+INFO  [AWT-EventQueue-0] 2020-03-09 11:56:16,663 repast.simphony.batch.gui.BatchConfigMediator - Unrolling batch parameter file:
+	/data/Wilhelmsburg_ABM/Wilhelmsburg/batch/batch_params.xml to
+	/tmp/unrolledParamFile.txt
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:56:39,780 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.484249174486990670523.zip to 
+	ubuntu@145.100.57.48:~/simphony_model_1583751388677/ubuntu_145.100.57.484249174486990670523.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:01,272 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:12,372 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.626641354656597296247.zip to 
+	ubuntu@145.100.57.62:~/simphony_model_1583751388677/ubuntu_145.100.57.626641354656597296247.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:14,708 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:25,775 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.778179464597965512943.zip to 
+	ubuntu@145.100.57.77:~/simphony_model_1583751388677/ubuntu_145.100.57.778179464597965512943.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:27,905 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:38,923 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.9916617954116080260920.zip to 
+	ubuntu@145.100.57.99:~/simphony_model_1583751388677/ubuntu_145.100.57.9916617954116080260920.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:41,109 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:52,110 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.10014094619856695425070.zip to 
+	ubuntu@145.100.57.100:~/simphony_model_1583751388677/ubuntu_145.100.57.10014094619856695425070.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:57:54,232 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:05,252 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1019062922094974159583.zip to 
+	ubuntu@145.100.57.101:~/simphony_model_1583751388677/ubuntu_145.100.57.1019062922094974159583.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:07,277 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:18,249 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.10636468432502082689.zip to 
+	ubuntu@145.100.57.106:~/simphony_model_1583751388677/ubuntu_145.100.57.10636468432502082689.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:20,358 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:31,301 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.12717085441815908041564.zip to 
+	ubuntu@145.100.57.127:~/simphony_model_1583751388677/ubuntu_145.100.57.12717085441815908041564.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:33,328 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:44,240 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1296035898081043907521.zip to 
+	ubuntu@145.100.57.129:~/simphony_model_1583751388677/ubuntu_145.100.57.1296035898081043907521.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:46,275 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:57,359 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1301766367668981537911.zip to 
+	ubuntu@145.100.57.130:~/simphony_model_1583751388677/ubuntu_145.100.57.1301766367668981537911.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:58:59,483 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:59:10,591 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1316207010411045554645.zip to 
+	ubuntu@145.100.57.131:~/simphony_model_1583751388677/ubuntu_145.100.57.1316207010411045554645.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:59:12,742 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:59:23,705 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.13210737245880409797085.zip to 
+	ubuntu@145.100.57.132:~/simphony_model_1583751388677/ubuntu_145.100.57.13210737245880409797085.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:59:25,792 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:59:36,823 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1354877254241485817508.zip to 
+	ubuntu@145.100.57.135:~/simphony_model_1583751388677/ubuntu_145.100.57.1354877254241485817508.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:59:38,882 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:59:49,840 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1365052837631503784656.zip to 
+	ubuntu@145.100.57.136:~/simphony_model_1583751388677/ubuntu_145.100.57.1365052837631503784656.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 11:59:51,882 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:02,867 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1384694364283804733073.zip to 
+	ubuntu@145.100.57.138:~/simphony_model_1583751388677/ubuntu_145.100.57.1384694364283804733073.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:04,945 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:15,993 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1418477052162400916277.zip to 
+	ubuntu@145.100.57.141:~/simphony_model_1583751388677/ubuntu_145.100.57.1418477052162400916277.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:18,063 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:29,154 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1427733676398254910642.zip to 
+	ubuntu@145.100.57.142:~/simphony_model_1583751388677/ubuntu_145.100.57.1427733676398254910642.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:31,201 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:42,270 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1492342844234165812861.zip to 
+	ubuntu@145.100.57.149:~/simphony_model_1583751388677/ubuntu_145.100.57.1492342844234165812861.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:44,320 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:55,307 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.1582425473095664616405.zip to 
+	ubuntu@145.100.57.158:~/simphony_model_1583751388677/ubuntu_145.100.57.1582425473095664616405.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:00:57,348 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:08,350 repast.simphony.batch.ssh.RemoteSession - 
+	Copying /tmp/ubuntu_145.100.57.16117242538672677163322.zip to 
+	ubuntu@145.100.57.161:~/simphony_model_1583751388677/ubuntu_145.100.57.16117242538672677163322.zip ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:10,398 repast.simphony.batch.ssh.RemoteSession - Copying Finished.
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:10,400 repast.simphony.batch.ssh.SessionsDriver - Initialization Time: 4.6954
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:10,449 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.48
+INFO  [Connect thread 145.100.57.48 session] 2020-03-09 12:01:10,776 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.48 session] 2020-03-09 12:01:10,777 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.48 session] 2020-03-09 12:01:10,777 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:11,677 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.48
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:15,679 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.48 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:16,728 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.62
+INFO  [Connect thread 145.100.57.62 session] 2020-03-09 12:01:17,056 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.62 session] 2020-03-09 12:01:17,056 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.62 session] 2020-03-09 12:01:17,056 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:17,957 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.62
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:21,959 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.62 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:22,993 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.77
+INFO  [Connect thread 145.100.57.77 session] 2020-03-09 12:01:23,251 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.77 session] 2020-03-09 12:01:23,251 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.77 session] 2020-03-09 12:01:23,251 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:24,173 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.77
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:27,176 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.77 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:28,220 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.99
+INFO  [Connect thread 145.100.57.99 session] 2020-03-09 12:01:28,560 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.99 session] 2020-03-09 12:01:28,560 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.99 session] 2020-03-09 12:01:28,560 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:29,457 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.99
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:33,460 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.99 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:34,498 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.100
+INFO  [Connect thread 145.100.57.100 session] 2020-03-09 12:01:34,789 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.100 session] 2020-03-09 12:01:34,790 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.100 session] 2020-03-09 12:01:34,790 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:35,701 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.100
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:38,703 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.100 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:39,745 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.101
+INFO  [Connect thread 145.100.57.101 session] 2020-03-09 12:01:40,065 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.101 session] 2020-03-09 12:01:40,066 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.101 session] 2020-03-09 12:01:40,066 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:40,969 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.101
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:43,971 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.101 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:45,008 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.106
+INFO  [Connect thread 145.100.57.106 session] 2020-03-09 12:01:45,291 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.106 session] 2020-03-09 12:01:45,292 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.106 session] 2020-03-09 12:01:45,292 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:46,205 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.106
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:49,207 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.106 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:50,243 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.127
+INFO  [Connect thread 145.100.57.127 session] 2020-03-09 12:01:50,527 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.127 session] 2020-03-09 12:01:50,528 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.127 session] 2020-03-09 12:01:50,528 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:51,441 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.127
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:54,443 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.127 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:55,482 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.129
+INFO  [Connect thread 145.100.57.129 session] 2020-03-09 12:01:55,766 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.129 session] 2020-03-09 12:01:55,767 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.129 session] 2020-03-09 12:01:55,767 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:56,685 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.129
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:01:59,688 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.129 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:00,724 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.130
+INFO  [Connect thread 145.100.57.130 session] 2020-03-09 12:02:01,023 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.130 session] 2020-03-09 12:02:01,024 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.130 session] 2020-03-09 12:02:01,025 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:01,933 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.130
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:04,935 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.130 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:05,971 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.131
+INFO  [Connect thread 145.100.57.131 session] 2020-03-09 12:02:06,240 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.131 session] 2020-03-09 12:02:06,242 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.131 session] 2020-03-09 12:02:06,243 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:07,153 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.131
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:10,155 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.131 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:11,191 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.132
+INFO  [Connect thread 145.100.57.132 session] 2020-03-09 12:02:11,469 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.132 session] 2020-03-09 12:02:11,472 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.132 session] 2020-03-09 12:02:11,472 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:12,389 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.132
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:15,391 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.132 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:16,425 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.135
+INFO  [Connect thread 145.100.57.135 session] 2020-03-09 12:02:16,692 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.135 session] 2020-03-09 12:02:16,693 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.135 session] 2020-03-09 12:02:16,696 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:17,613 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.135
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:20,614 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.135 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:21,652 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.136
+INFO  [Connect thread 145.100.57.136 session] 2020-03-09 12:02:21,925 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.136 session] 2020-03-09 12:02:21,927 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.136 session] 2020-03-09 12:02:21,929 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:22,845 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.136
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:25,847 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.136 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:26,885 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.138
+INFO  [Connect thread 145.100.57.138 session] 2020-03-09 12:02:27,166 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.138 session] 2020-03-09 12:02:27,166 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.138 session] 2020-03-09 12:02:27,167 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:28,081 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.138
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:31,083 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.138 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:32,117 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.141
+INFO  [Connect thread 145.100.57.141 session] 2020-03-09 12:02:32,403 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.141 session] 2020-03-09 12:02:32,403 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+INFO  [Connect thread 145.100.57.141 session] 2020-03-09 12:02:32,404 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:33,317 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.141
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:36,320 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.141 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:37,360 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.142
+INFO  [Connect thread 145.100.57.142 session] 2020-03-09 12:02:37,669 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+INFO  [Connect thread 145.100.57.142 session] 2020-03-09 12:02:37,670 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.142 session] 2020-03-09 12:02:37,670 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:38,573 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.142
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:41,575 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.142 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:42,621 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.149
+INFO  [Connect thread 145.100.57.149 session] 2020-03-09 12:02:43,009 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.149 session] 2020-03-09 12:02:43,009 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.149 session] 2020-03-09 12:02:43,009 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:43,897 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.149
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:46,899 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.149 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:47,937 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.158
+INFO  [Connect thread 145.100.57.158 session] 2020-03-09 12:02:48,229 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.158 session] 2020-03-09 12:02:48,229 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.158 session] 2020-03-09 12:02:48,229 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:49,149 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.158
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:52,151 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.158 ...
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:53,188 repast.simphony.batch.ssh.RemoteSession - Checking for java on ubuntu@145.100.57.161
+INFO  [Connect thread 145.100.57.161 session] 2020-03-09 12:02:53,493 repast.simphony.batch.ssh.SSHSession - java version "11.0.6" 2020-01-14 LTS
+
+INFO  [Connect thread 145.100.57.161 session] 2020-03-09 12:02:53,494 repast.simphony.batch.ssh.SSHSession - Java(TM) SE Runtime Environment 18.9 (build 11.0.6+8-LTS)
+
+INFO  [Connect thread 145.100.57.161 session] 2020-03-09 12:02:53,494 repast.simphony.batch.ssh.SSHSession - Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.6+8-LTS, mixed mode)
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:54,405 repast.simphony.batch.ssh.RemoteSession - Unzipping model on ubuntu@145.100.57.161
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:02:57,407 repast.simphony.batch.ssh.RemoteSession - Running model on ubuntu@145.100.57.161 ...
+INFO  [pool-2-thread-3] 2020-03-09 12:04:59,472 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.77 for DONE: no
+INFO  [pool-2-thread-8] 2020-03-09 12:04:59,472 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.127 for DONE: no
+INFO  [pool-2-thread-2] 2020-03-09 12:04:59,473 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.62 for DONE: no
+INFO  [pool-2-thread-7] 2020-03-09 12:04:59,474 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.106 for DONE: no
+INFO  [pool-2-thread-4] 2020-03-09 12:04:59,477 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-9] 2020-03-09 12:04:59,477 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.129 for DONE: no
+INFO  [pool-2-thread-1] 2020-03-09 12:04:59,486 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.48 for DONE: no
+INFO  [pool-2-thread-12] 2020-03-09 12:04:59,487 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.132 for DONE: no
+INFO  [pool-2-thread-6] 2020-03-09 12:04:59,487 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.101 for DONE: no
+INFO  [pool-2-thread-11] 2020-03-09 12:04:59,487 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.131 for DONE: no
+INFO  [pool-2-thread-10] 2020-03-09 12:04:59,488 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.130 for DONE: no
+INFO  [pool-2-thread-5] 2020-03-09 12:04:59,489 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.100 for DONE: no
+INFO  [pool-2-thread-15] 2020-03-09 12:04:59,489 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.138 for DONE: no
+INFO  [pool-2-thread-13] 2020-03-09 12:04:59,489 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.135 for DONE: no
+INFO  [pool-2-thread-14] 2020-03-09 12:04:59,489 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.136 for DONE: no
+INFO  [pool-2-thread-16] 2020-03-09 12:04:59,501 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.141 for DONE: no
+INFO  [pool-2-thread-19] 2020-03-09 12:04:59,510 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.158 for DONE: no
+INFO  [pool-2-thread-20] 2020-03-09 12:04:59,514 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.161 for DONE: no
+INFO  [pool-2-thread-18] 2020-03-09 12:04:59,515 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.149 for DONE: no
+INFO  [pool-2-thread-17] 2020-03-09 12:04:59,515 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.142 for DONE: no
+INFO  [pool-2-thread-8] 2020-03-09 12:07:00,475 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.127 for DONE: no
+INFO  [pool-2-thread-7] 2020-03-09 12:07:00,475 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.106 for DONE: no
+INFO  [pool-2-thread-2] 2020-03-09 12:07:00,475 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.62 for DONE: no
+INFO  [pool-2-thread-3] 2020-03-09 12:07:00,475 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.77 for DONE: no
+INFO  [pool-2-thread-4] 2020-03-09 12:07:00,478 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-9] 2020-03-09 12:07:00,479 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.129 for DONE: no
+INFO  [pool-2-thread-1] 2020-03-09 12:07:00,488 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.48 for DONE: no
+INFO  [pool-2-thread-12] 2020-03-09 12:07:00,489 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.132 for DONE: no
+INFO  [pool-2-thread-11] 2020-03-09 12:07:00,489 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.131 for DONE: no
+INFO  [pool-2-thread-6] 2020-03-09 12:07:00,489 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.101 for DONE: no
+INFO  [pool-2-thread-10] 2020-03-09 12:07:00,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.130 for DONE: no
+INFO  [pool-2-thread-5] 2020-03-09 12:07:00,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.100 for DONE: no
+INFO  [pool-2-thread-13] 2020-03-09 12:07:00,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.135 for DONE: no
+INFO  [pool-2-thread-15] 2020-03-09 12:07:00,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.138 for DONE: no
+INFO  [pool-2-thread-14] 2020-03-09 12:07:00,491 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.136 for DONE: no
+INFO  [pool-2-thread-16] 2020-03-09 12:07:00,503 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.141 for DONE: no
+INFO  [pool-2-thread-19] 2020-03-09 12:07:00,511 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.158 for DONE: no
+INFO  [pool-2-thread-20] 2020-03-09 12:07:00,516 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.161 for DONE: no
+INFO  [pool-2-thread-18] 2020-03-09 12:07:00,517 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.149 for DONE: no
+INFO  [pool-2-thread-17] 2020-03-09 12:07:00,518 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.142 for DONE: no
+INFO  [pool-2-thread-8] 2020-03-09 12:09:01,480 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.127 for DONE: no
+INFO  [pool-2-thread-9] 2020-03-09 12:09:01,480 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.129 for DONE: no
+INFO  [pool-2-thread-7] 2020-03-09 12:09:01,480 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.106 for DONE: no
+INFO  [pool-2-thread-2] 2020-03-09 12:09:01,480 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.62 for DONE: no
+INFO  [pool-2-thread-3] 2020-03-09 12:09:01,480 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.77 for DONE: no
+INFO  [pool-2-thread-4] 2020-03-09 12:09:01,481 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-1] 2020-03-09 12:09:01,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.48 for DONE: no
+INFO  [pool-2-thread-11] 2020-03-09 12:09:01,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.131 for DONE: no
+INFO  [pool-2-thread-12] 2020-03-09 12:09:01,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.132 for DONE: no
+INFO  [pool-2-thread-6] 2020-03-09 12:09:01,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.101 for DONE: no
+INFO  [pool-2-thread-10] 2020-03-09 12:09:01,491 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.130 for DONE: no
+INFO  [pool-2-thread-5] 2020-03-09 12:09:01,491 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.100 for DONE: no
+INFO  [pool-2-thread-14] 2020-03-09 12:09:01,492 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.136 for DONE: no
+INFO  [pool-2-thread-15] 2020-03-09 12:09:01,492 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.138 for DONE: no
+INFO  [pool-2-thread-13] 2020-03-09 12:09:01,500 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.135 for DONE: no
+INFO  [pool-2-thread-16] 2020-03-09 12:09:01,504 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.141 for DONE: no
+INFO  [pool-2-thread-19] 2020-03-09 12:09:01,512 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.158 for DONE: no
+INFO  [pool-2-thread-20] 2020-03-09 12:09:01,517 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.161 for DONE: no
+INFO  [pool-2-thread-18] 2020-03-09 12:09:01,518 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.149 for DONE: no
+INFO  [pool-2-thread-17] 2020-03-09 12:09:01,521 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.142 for DONE: no
+INFO  [pool-2-thread-3] 2020-03-09 12:11:02,482 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.77 for DONE: no
+INFO  [pool-2-thread-7] 2020-03-09 12:11:02,482 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.106 for DONE: no
+INFO  [pool-2-thread-8] 2020-03-09 12:11:02,482 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.127 for DONE: no
+INFO  [pool-2-thread-9] 2020-03-09 12:11:02,482 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.129 for DONE: no
+INFO  [pool-2-thread-2] 2020-03-09 12:11:02,482 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.62 for DONE: no
+INFO  [pool-2-thread-12] 2020-03-09 12:11:02,492 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.132 for DONE: no
+INFO  [pool-2-thread-6] 2020-03-09 12:11:02,492 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.101 for DONE: no
+INFO  [pool-2-thread-1] 2020-03-09 12:11:02,492 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.48 for DONE: no
+INFO  [pool-2-thread-10] 2020-03-09 12:11:02,493 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.130 for DONE: no
+INFO  [pool-2-thread-5] 2020-03-09 12:11:02,493 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.100 for DONE: no
+INFO  [pool-2-thread-14] 2020-03-09 12:11:02,494 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.136 for DONE: no
+INFO  [pool-2-thread-15] 2020-03-09 12:11:02,494 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.138 for DONE: no
+INFO  [pool-2-thread-4] 2020-03-09 12:11:02,503 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-13] 2020-03-09 12:11:02,504 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.135 for DONE: no
+INFO  [pool-2-thread-11] 2020-03-09 12:11:02,504 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.131 for DONE: no
+INFO  [pool-2-thread-16] 2020-03-09 12:11:02,506 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.141 for DONE: no
+INFO  [pool-2-thread-19] 2020-03-09 12:11:02,514 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.158 for DONE: no
+INFO  [pool-2-thread-20] 2020-03-09 12:11:02,518 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.161 for DONE: no
+INFO  [pool-2-thread-18] 2020-03-09 12:11:02,519 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.149 for DONE: no
+INFO  [pool-2-thread-17] 2020-03-09 12:11:02,523 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.142 for DONE: no
+INFO  [pool-2-thread-3] 2020-03-09 12:13:03,484 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.77 for DONE: no
+INFO  [pool-2-thread-2] 2020-03-09 12:13:03,484 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.62 for DONE: no
+INFO  [pool-2-thread-8] 2020-03-09 12:13:03,484 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.127 for DONE: yes
+INFO  [pool-2-thread-7] 2020-03-09 12:13:03,484 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.106 for DONE: yes
+INFO  [pool-2-thread-9] 2020-03-09 12:13:03,484 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.129 for DONE: yes
+INFO  [pool-2-thread-6] 2020-03-09 12:13:03,493 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.101 for DONE: yes
+INFO  [pool-2-thread-12] 2020-03-09 12:13:03,493 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.132 for DONE: no
+INFO  [pool-2-thread-1] 2020-03-09 12:13:03,493 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.48 for DONE: no
+INFO  [pool-2-thread-10] 2020-03-09 12:13:03,494 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.130 for DONE: yes
+INFO  [pool-2-thread-5] 2020-03-09 12:13:03,495 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.100 for DONE: yes
+INFO  [pool-2-thread-14] 2020-03-09 12:13:03,495 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.136 for DONE: no
+INFO  [pool-2-thread-15] 2020-03-09 12:13:03,495 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.138 for DONE: no
+INFO  [pool-2-thread-13] 2020-03-09 12:13:03,506 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.135 for DONE: no
+INFO  [pool-2-thread-11] 2020-03-09 12:13:03,506 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.131 for DONE: no
+INFO  [pool-2-thread-4] 2020-03-09 12:13:03,506 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-16] 2020-03-09 12:13:03,508 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.141 for DONE: no
+INFO  [pool-2-thread-19] 2020-03-09 12:13:03,515 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.158 for DONE: no
+INFO  [pool-2-thread-20] 2020-03-09 12:13:03,519 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.161 for DONE: no
+INFO  [pool-2-thread-18] 2020-03-09 12:13:03,521 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.149 for DONE: no
+INFO  [pool-2-thread-17] 2020-03-09 12:13:03,527 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.142 for DONE: no
+INFO  [pool-2-thread-3] 2020-03-09 12:15:04,487 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.77 for DONE: yes
+INFO  [pool-2-thread-2] 2020-03-09 12:15:04,487 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.62 for DONE: no
+INFO  [pool-2-thread-12] 2020-03-09 12:15:04,495 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.132 for DONE: yes
+INFO  [pool-2-thread-1] 2020-03-09 12:15:04,495 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.48 for DONE: no
+INFO  [pool-2-thread-14] 2020-03-09 12:15:04,496 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.136 for DONE: yes
+INFO  [pool-2-thread-15] 2020-03-09 12:15:04,498 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.138 for DONE: yes
+INFO  [pool-2-thread-13] 2020-03-09 12:15:04,507 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.135 for DONE: yes
+INFO  [pool-2-thread-11] 2020-03-09 12:15:04,507 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.131 for DONE: yes
+INFO  [pool-2-thread-4] 2020-03-09 12:15:04,509 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.99 for DONE: no
+INFO  [pool-2-thread-16] 2020-03-09 12:15:04,509 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.141 for DONE: yes
+INFO  [pool-2-thread-19] 2020-03-09 12:15:04,517 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.158 for DONE: yes
+INFO  [pool-2-thread-20] 2020-03-09 12:15:04,521 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.161 for DONE: yes
+INFO  [pool-2-thread-18] 2020-03-09 12:15:04,522 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.149 for DONE: yes
+INFO  [pool-2-thread-17] 2020-03-09 12:15:04,529 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.142 for DONE: no
+INFO  [pool-2-thread-2] 2020-03-09 12:17:05,490 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.62 for DONE: yes
+INFO  [pool-2-thread-1] 2020-03-09 12:17:05,497 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.48 for DONE: yes
+INFO  [pool-2-thread-4] 2020-03-09 12:17:05,510 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.99 for DONE: yes
+INFO  [pool-2-thread-17] 2020-03-09 12:17:05,531 repast.simphony.batch.ssh.RemoteDonePoller - Polled simphony_model_1583751388677 on 145.100.57.142 for DONE: yes
+INFO  [SwingWorker-pool-1-thread-1] 2020-03-09 12:17:05,533 repast.simphony.batch.ssh.SessionsDriver - Run Time: 15.9189
+ERROR [SwingWorker-pool-1-thread-1] 2020-03-09 12:17:08,973 repast.simphony.batch.ssh.SessionsDriver - Error while creating connection to ubuntu@145.100.57.136
+com.jcraft.jsch.JSchException: verify: false
+	at com.jcraft.jsch.Session.connect(Session.java:309)
+	at com.jcraft.jsch.Session.connect(Session.java:162)
+	at repast.simphony.batch.ssh.SSHSessionFactory.create(SSHSessionFactory.java:75)
+	at repast.simphony.batch.ssh.RemoteStatusGetter.run(RemoteStatusGetter.java:35)
+	at repast.simphony.batch.ssh.RemoteSession.retrieveRunCompletionStatus(RemoteSession.java:339)
+	at repast.simphony.batch.ssh.SessionsDriver.getRemoteRunStatus(SessionsDriver.java:144)
+	at repast.simphony.batch.ssh.SessionsDriver.run(SessionsDriver.java:75)
+	at repast.simphony.batch.gui.BatchConfigMediator$AntSessionRunner.doInBackground(BatchConfigMediator.java:481)
+	at repast.simphony.batch.gui.BatchConfigMediator$AntSessionRunner.doInBackground(BatchConfigMediator.java:1)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:304)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:343)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)

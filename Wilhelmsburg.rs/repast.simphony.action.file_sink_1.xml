@@ -1,0 +1,29 @@
+<repast.simphony.data2.engine.FileSinkDescriptor simphonyVersion="2.7.0">
+  <name>Output Sink Aggregate</name>
+  <dataSet>Output data Aggregate</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>run</string>
+    <string>tick</string>
+    <string>Flooded houses (per tick)</string>
+    <string>Threat Yes (per tick)</string>
+    <string>Coping Yes (cum)</string>
+    <string>Coping due to SN (cum)</string>
+    <string>Primary measure implemented Yes (cum)</string>
+    <string>Primary measure abandoned Yes (cum)</string>
+    <string>Secondary measure implemented Yes (cum)</string>
+    <string>Secondary measure abandoned Yes (cum)</string>
+    <string>Building damage (per tick)</string>
+    <string>Building damage saved (per tick)</string>
+    <string>Content damage (per tick)</string>
+    <string>Content damage saved (per tick)</string>
+    <string>IUHS (cum)</string>
+    <string>FAIF_B (cum)</string>
+    <string>FAIF_I (cum)</string>
+    <string>FB1 (cum)</string>
+    <string>FB2 (cum)</string>
+  </sourceIds>
+  <fileName>AggregateModelOutput.csv</fileName>
+  <addTimeStamp>true</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>
