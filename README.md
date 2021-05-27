@@ -66,6 +66,8 @@ Table 1. List of model input factors and their base values.
 ## 6.	Input data
 The houses of household agents are loaded from a shapefile of building layers (polygon features). The flood model in this study is based on extreme storm surge scenarios and two-dimensional (2D) hydrodynamic models explained in (Naulin et al., 2012; Ujeyl and Rose, 2015). The three storm surge events – Event A, Event B and Event C – used in this study has a peak water level of 8.00 m, 7.25 m and 8.64 m, respectively (Naulin et al., 2012). To assess the flood hazard from the three scenario events, flood models that simulate coastal flooding are implemented. The model is developed using the MIKE21 unstructured grid modelling software (DHI, 2017). The 2D model domain defines the computational mesh and bathymetry, in which the latter is based on a digital terrain model. The surface resistance is expressed using a space-dependent Manning number that is based on the current land use categories. The output of the hydrodynamic model relevant for the current study is the inundation map showing the maximum flood depth in Wilhelmsburg. Further, as houses are represented by polygon features (see Figure 1), the flood depth for a specific house is the maximum of the depths extracted for each vertex of the polygon that defines the house.
 
+**NOTE**: The GIS data needed to successfully run the simulation are added in the project repository. The three flood maps are identical and they have very coarse resolution (1km). The polygon shapefiles that generate the agents have only five features each. The purpose of adding these files is to successfully run the model with no error. The data will not replicate what is presented in Abebe et al 2020.
+
 ## 7.	Submodels
 *Threat appraisal* 
 
